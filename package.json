@@ -4,7 +4,7 @@
   "description": "A Starlogik TSLint config for JavaScript Standard Style",
   "author": {
     "name": "Ash Brener",
-    "email": "ashley@starllgik.com"
+    "email": "ashley@starlogik.com"
   },
   "bugs": {
     "url": "https://github.com/starlogik/tslint/issues"
